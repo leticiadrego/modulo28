@@ -1,0 +1,47 @@
+.form {
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 15px;
+    border-radius: 10px;
+    background: #E3F5E0;
+}
+
+.titulo {
+    font-size: 40px;
+    font-weight: bold;
+    color: #6666;
+}
+
+.form-titulo {
+    color: #849081;
+    font-weight: bold;
+}
+
+.input-form {
+    max-width: 60px;
+    margin: 0 auto;
+    margin-top: 6px;
+    margin-bottom: 20px;
+    padding: 4px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.form-button {
+    cursor: pointer;
+    border: 1px solid;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form-button:first-child {
+    margin-right: 10px;
+}
+
+.resultado {
+    color: #000;
+}
